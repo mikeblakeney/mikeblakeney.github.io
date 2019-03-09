@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Posts
-description: This is the page description.
 permalink: /posts/
 background: '/assets/background.jpg'
 ---
