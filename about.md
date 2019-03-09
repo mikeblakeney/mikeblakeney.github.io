@@ -2,17 +2,6 @@
 layout: page
 title: About
 permalink: /about/
+background: '/assets/background.jpg'
 ---
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I love designing and building web and backend applications, leveraging devops principles, cloud technologies like Amazon Web Services, and solid software engineering practices. I have experience leading development and engineering teams to building great applications for complex problems. Projects I've worked on include leading teams in developing serverless API backends, modern database applications, data migrations, and well architected cloud based solutions. Let's get started solving difficult problems together!
