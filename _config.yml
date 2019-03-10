@@ -24,7 +24,7 @@ twitter_username:  mikejblakeney
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-clean-blog
+theme: minima
 plugins:
   - jekyll-feed
 
